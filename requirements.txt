@@ -1,0 +1,6 @@
+protobuf
+bs4
+xmltodict
+browser_cookie3
+requests
+pycryptodomex
